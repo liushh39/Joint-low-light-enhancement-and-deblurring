@@ -14,6 +14,10 @@ Put your images in the "realblur_dataset_test" directory and run the following p
 ```
 python inference.py
 ```
+
+## Trainning Code
+If you want the trainning code, please contact me at liushh39@mail2.sysu.edu.cn.
+
 ## Reprinted please specify the source~
 [https://github.com/liushh39](https://github.com/liushh39)
 
