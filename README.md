@@ -1,4 +1,4 @@
-# I-E
+# Joint low-light enhancement and deblurring
 
 <img src="https://github.com/liushh39/I-E/blob/main/1.gif" width="400">    <img src="https://github.com/liushh39/I-E/blob/main/2.gif" width="400">
 
